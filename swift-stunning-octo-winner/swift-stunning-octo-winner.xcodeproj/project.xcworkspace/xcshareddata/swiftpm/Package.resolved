@@ -1,0 +1,15 @@
+{
+  "originHash" : "cddd1da9d229e5d00f287cf5825b3eccc2c2565dd6d10c4281ccc56c68592c7e",
+  "pins" : [
+    {
+      "identity" : "dlparser-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ajohnson388/DLParser-Swift.git",
+      "state" : {
+        "revision" : "cc4c72a22de25c6b315a55473978591129af2a82",
+        "version" : "3.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
